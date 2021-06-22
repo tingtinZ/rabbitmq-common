@@ -1,0 +1,14 @@
+{application, rabbit_common, [
+ {description, ""},
+ {vsn, "v3.7.17"},
+ {modules, []},
+ {registered, []},
+ {applications, [
+  kernel,
+  stdlib,
+  jsx,
+  lager,
+  ranch,
+  recon
+ ]}
+]}.
