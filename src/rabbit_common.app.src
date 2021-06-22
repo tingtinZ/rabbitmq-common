@@ -5,10 +5,6 @@
  {registered, []},
  {applications, [
   kernel,
-  stdlib,
-  jsx,
-  lager,
-  ranch,
-  recon
+  stdlib
  ]}
 ]}.
